@@ -9,4 +9,4 @@ Es necesario que el microservicio: springbootretointercorp, se encuentre deploya
 
 El url del frontend es:
 
-http://localhost:4200/clientes/
+https://angularintercorp.firebaseapp.com/clientes
