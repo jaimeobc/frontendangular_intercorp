@@ -10,3 +10,7 @@ Es necesario que el microservicio: springbootretointercorp, se encuentre deploya
 El url del frontend es:
 
 https://angularintercorp.firebaseapp.com/clientes
+
+
+Nota:
+En el navegador Google Chrome cargar los scripts no seguros.
